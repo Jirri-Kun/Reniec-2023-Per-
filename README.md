@@ -1,3 +1,5 @@
 # Reniec Perú 2023
-I helped get the Reniec Perú database with +37M rows (with images included)
-![1-3918855563](https://github.com/user-attachments/assets/8cd02dac-d31d-4128-a313-db5c892ac026)
+![reniec](https://github.com/user-attachments/assets/d8747767-9ce8-4f0d-bf39-73096ac88574)
+Good afternoon, this database was extracted in January of this year. The Reniec entity is a shame in its security and easy to violate. I will detail the fields that are in the base.
+
+
